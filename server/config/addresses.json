@@ -1,0 +1,20 @@
+[
+    {
+        "streetName": "1000 Old Bano St",
+        "city": "Salineno",
+        "state": "TX",
+        "zipCode": "78584" 
+    },
+    {
+        "streetName": "1001 Old Bano St",
+        "city": "Falcon Heights",
+        "state": "TX",
+        "zipCode": "78584" 
+    },
+    {
+        "streetName": "1002 Old Bano St",
+        "city": "Salineno",
+        "state": "TX",
+        "zipCode": "78584" 
+    }
+]
